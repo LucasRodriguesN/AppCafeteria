@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Cafeteria</string>
+    <string name="EditTextEmailLogin">Email</string>
+    <string name="EditTextSenhaLogin">Password</string>
+    <string name="ButtonLogin">Logar</string>
+    <string name="TextViewCadastrarLogin">Criar Conta</string>
+    <string name="TextViewRecuperarLogin">Recuperar Conta</string>
+    <string name="TextViewCadastrarCadastro">Cadastrar Novo Usuário</string>
+    <string name="EditTextNomeCadastro">Nome</string>
+    <string name="EditTextEmailCadastro">Email</string>
+    <string name="TextViewRepeteSenhaCadastro">Repetir Senha</string>
+    <string name="ButtonCadastrarCadastro">Cadastrar</string>
+    <string name="TextViewRecuperarSenha">Recuperar Senha</string>
+    <string name="ButtonRecuperarConta">Recuperar Conta</string>
+</resources>
